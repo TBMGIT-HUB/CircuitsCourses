@@ -13,9 +13,9 @@ L'alimentation du circuit est assurée par un TPS63031DSK, qui permet de fournir
 Le PCB regroupe ainsi la partie alimentation, les circuits logiques, l'ESP32-S3, les boutons de commande et l'interface avec l'écran OLED.
 
 # Schéma électronique
-![Image](images/Capture d'écran 2026-09-26 104007.png)
+![Image](images/CircuitSchéma.png)
 # PCB
-![Image](images/Capture d'écran 2026-09-26 104007.png)
+![Image](images/PCB.png)
 # Vue 3D
 ![Image](images/ProjetKicad.png)
 
